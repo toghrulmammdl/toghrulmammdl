@@ -44,12 +44,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toghrulmammdl&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toghrulmammdl&theme=radical&date_format=M%20j%5B%2C%20Y%5D&utc_offset=+4" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=toghrulmammdl&show_icons=true&theme=radical" width="75%""/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toghrulmammdl&layout=compact&theme=radical&langs_count=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toghrulmammdl&theme=radical&date_format=M%20j%5B%2C%20Y%5D&utc_offset=+4" width="75%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toghrulmammdl&layout=compact&theme=radical&langs_count=10" width="75%" />
 </p>
 
 ---
